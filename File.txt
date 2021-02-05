@@ -4,10 +4,11 @@ Modifying for commit1
 Modifying for commit2
 
 abc
-xyz
+xyz--->abc
 
 pqr
-123
-011111011111110
+1234567890
+Just for Rebasing concept
+
 
 
