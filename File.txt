@@ -1,18 +1,19 @@
 hello world
 
-Modifying for commit1
-Modifying for commit2
+1. Modifying for commit1
+2. Modifying for commit2
 
 abc
 xyz--->abc
 
 pqr
 1234567890
-Just for Rebasing concept
+Just for Rebasing.Lets learn concept
 khkhkhkh
 
 Added for a change
 
+Added for a change1
 ________________________________________________________
 
 
